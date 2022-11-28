@@ -24,7 +24,7 @@
 
 ### 입력 
 
- <p>Your program is to read from standard input. The input is exactly one line containing three integers, $A$, $B$, $C$ ($1 ≤ A, B, C ≤ 10,000,000$).</p>
+ <p>Your program is to read from standard input. The input is exactly one line containing three integers, $A$, $B$, $C$ $(1 ≤ A, B, C ≤ 10,000,000)$.</p>
 
 ### 출력 
 
