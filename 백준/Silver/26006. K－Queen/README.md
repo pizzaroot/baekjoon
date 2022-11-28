@@ -24,7 +24,7 @@
 
 <p>아래 그림은 왼쪽부터 각각 체크, 체크메이트, 스테일메이트의 한 가지 예를 보여준다.</p>
 
-<p style="text-align: center;"><img alt="" src="" style="width: 100%; "></p>
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/83c16faf-e984-434d-8eac-dffc3392e9ab/-/preview/" style="width: 100%; "></p>
 
 <p>신이 난 재헌이는 체스판 위에 백색 킹 하나와 흑색 퀸 $K$개를 놓았는데, 이때 백색 킹과 8방향으로 인접한 칸에는 흑색 퀸을 놓지 않았다. 그러고는 이 체스판이 어느 상태에 해당하는지 여러분에게 물어보았다. 재헌이의 질문에 답해보자!</p>
 
