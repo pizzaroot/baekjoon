@@ -22,7 +22,7 @@
 
 <p>In this example, the stick cannot be folded at both hinges ① and ②. This is because if the stick is folded at hinge ① and then at hinge ②, the segment with length 3 passing over the hinge ② will be broken. If it is folded only at hinge ②, the wrapping length is 5. If it is folded at hinges ① and ③ in order, the wrapping length is 4 as shown in the figure below.</p>
 
-<p style="text-align: center;"><img alt="" src="" style="width: 478px; height: 66px;"></p>
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/bbb60e1d-20d8-4198-bc9a-3bcbfe9bbabe/-/preview/" style="width: 478px; height: 66px;"></p>
 
 <p>Given a sequence of segments lengths of a folding stick, write a program to output the minimum wrapping length of the stick.</p>
 
