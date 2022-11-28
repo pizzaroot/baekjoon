@@ -28,7 +28,7 @@
 
 ### 입력 
 
- <p>Your program is to read from standard input. The input starts with a line containing two integers, $m$ and $n$ ($0 ≤ m ≤ n ≤ 1\,000\,000$), where $m$ is the number of zip-line connections (edges) and $n$ is the number of islands (vertices). The islands are numbered from $0$ to $n - 1$. In the following $m$ lines, the $i$-th line contains two integers $v_i$ and $w_i$ that represent a directed edge $(v_i , w_i)$ from $v_i$ to $w_i$. We assume that each vertex has at most one outgoing edge.</p>
+ <p>Your program is to read from standard input. The input starts with a line containing two integers, $m$ and $n$ $(0\leq m\leq n\leq 1\,000\,000)$, where $m$ is the number of zip-line connections (edges) and $n$ is the number of islands (vertices). The islands are numbered from $0$ to $n - 1$. In the following $m$ lines, the $i$-th line contains two integers $v_i$ and $w_i$ that represent a directed edge $(v_i , w_i)$ from $v_i$ to $w_i$. We assume that each vertex has at most one outgoing edge.</p>
 
 ### 출력 
 
