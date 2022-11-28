@@ -18,7 +18,7 @@
 
 <p>In the above expression, the operator $+$ means the concatenation of two strings. The figure below shows two examples of rooted ordered trees. The string representations $p(T_L)$ and $p(T_R)$ are <code>((()()())())</code> and <code>(()((()(()))()))</code>, respectively.</p>
 
-<p style="text-align: center;"><img alt="" src="" style="width: 286px; height: 168px;"></p>
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a0444adf-3801-4c1a-bd27-b50caecf0570/-/preview/" style="width: 286px; height: 168px;"></p>
 
 <p>The distance from the root node to a leaf node is defined as the number of edges to be traversed to reach the leaf from the root. In the figure above, the root nodes are colored in blue, and the distances from the root node to all leaf nodes are shown. For trees $T_L$ and $T_R$ the sum of the distances from the root to all leaf nodes are $7$ and $10$, respectively.</p>
 
